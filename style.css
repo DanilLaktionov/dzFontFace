@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Farro:wght@300&family=Francois+One&family=PT+Sans&family=Tourney:wght@600&display=swap');
+
+main{
+    position: relative;
+    margin: 70px 120px 0px 120px;
+}
+
+header{
+    position: relative;
+    height: 80px;
+    margin: 0px 120px 0px 120px;
+}
+
+.eng{
+    margin:29px 0px 20px 0px;
+    font-family: 'Tourney', cursive;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 22px;
+    color: #000000;
+}
+
+.nav{
+    padding: 26px 0px 26px 50px;
+    position: relative;
+    top:-75px;
+    left:50px;
+    font-family: 'Francois One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    color:#000000;
+}
+
+.logo{
+    position: relative;
+    top:-145px;
+    left:1020px;
+    width: 238px;
+}
+
+.h2Titel1, .h2Titel2, .h2Titel3, .h2Title4{
+    font-family: 'Francois One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    color:#000000;
+    letter-spacing: 4%;
+    line-height: 94%;
+    margin-bottom: 40px;
+}
+
+.spanTitel1, .spanTitel2, .spanTitel3, .spanTitle4{
+    font-family: 'Farro', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color:#000000;
+    letter-spacing: 4%;
+    position: relative;
+    top:-27px;
+}
+
+.welcome{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 132%;
+    color:#000000;
+    margin-bottom: 70px;
+}
+
+
+.h2Titel2{
+    font-family: 'Francois One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    color:#000000;
+    letter-spacing: 4%;
+    line-height: 94%;
+    margin-bottom: 40px;
+    
+}
+
+
+.mainText2{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 132%;
+    color:#000000;
+    margin-bottom: 70px;
+}
+
+.mainText3{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    font-style: normal;
+    line-height: 132%;
+    color:#000000;
+    margin-bottom: 70px;
+    padding-bottom: 40px;
+}
+
+.mark{
+    background: grey;
+}
+
+.mainText4{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    font-style: normal;
+    line-height: 132%;
+    color:#000000;
+    padding-bottom: 40px;
+}
